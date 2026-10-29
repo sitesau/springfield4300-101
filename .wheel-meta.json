@@ -1,0 +1,22 @@
+{
+  "wheel_id": 502,
+  "structure": "umbrella",
+  "slug": "springfield4300-101",
+  "project": "local-businesses-springfield-qld-cost-guide-b43573b878f1da42",
+  "parent_t1_ref": "springfield4300-150",
+  "node_role": "feeder",
+  "money_target": "springfield4300.com.au",
+  "primary_kw": "local businesses springfield qld cost guide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/local-businesses-springfield-qld-cost-guide-b43573b878f1da42/",
+  "tier": "T2",
+  "writeback_nonce": "3926163f64a21032",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/local-businesses-springfield-qld-282098d8bb0d9c5f8ab27d0a8794c2/",
+      "anchor": "Local Businesses Springfield Qld: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
